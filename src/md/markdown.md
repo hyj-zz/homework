@@ -144,25 +144,19 @@ _이탤릭체_ 또는 _이탤릭체_
 ### 문법
 
 ```markdown
-![대체 텍스트](https://via.placeholder.com/150)
-![대체 텍스트](https://via.placeholder.com/150 '이미지 툴팁')
+![풍경](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=150&q=80)
+
+![커피](https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=150&q=80 '커피잔(툴팁)')
 
 [![내 증명사진](./../assets/profiles/heoyejin.jpg))](https://github.com/hyj-zz/homework)
-
-![참조 이미지][image1]
-[image1]: https://via.placeholder.com/150 "참조 이미지"
 ```
 
 ### 출력 결과
 
-![대체 텍스트](https://via.placeholder.com/150)  
-![대체 텍스트](https://via.placeholder.com/150 '이미지 툴팁')
+![풍경](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=150&q=80)
+![커피](https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=150&q=80 '커피잔(툴팁)')
 
 [![내 증명사진](./../assets/profiles/heoyejin.jpg))](https://github.com/hyj-zz/homework)
-
-![참조 이미지][image1]
-
-[image1]: https://via.placeholder.com/150 '참조 이미지'
 
 <br/>
 
