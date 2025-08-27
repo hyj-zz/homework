@@ -147,16 +147,12 @@ _이탤릭체_ 또는 _이탤릭체_
 ![풍경](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=150&q=80)
 
 ![커피](https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=150&q=80 '커피잔(툴팁)')
-
-[![내 증명사진](./../assets/profiles/heoyejin.jpg))](https://github.com/hyj-zz/homework)
 ```
 
 ### 출력 결과
 
 ![풍경](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=150&q=80)
 ![커피](https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=150&q=80 '커피잔(툴팁)')
-
-[![내 증명사진](./../assets/profiles/heoyejin.jpg))](https://github.com/hyj-zz/homework)
 
 <br/>
 
@@ -171,7 +167,7 @@ _이탤릭체_ 또는 _이탤릭체_
 
 ```javascript
 function hello() {
-  console.log('Hello Yejin');
+  console.log('Hello hi');
   return 'Hello World!';
 }
 ```
@@ -191,7 +187,7 @@ def hello():
 
 ```javascript
 function hello() {
-  console.log('Hello Yejin');
+  console.log('Hello hi');
   return 'Hello World!';
 }
 ```
@@ -281,7 +277,7 @@ def hello():
 | 이름   | 나이 | 직업   |
 | ------ | ---- | ------ |
 | 홍길동 | 20   | 개발자 |
-| 허예진 | 29   | 백수   |
+| 이순신 | 29   | 백수   |
 
 | 좌측정렬 | 가운데정렬 | 우측정렬 |
 | :------- | :--------: | -------: |
@@ -294,7 +290,7 @@ def hello():
 | 이름   | 나이 | 직업   |
 | ------ | ---- | ------ |
 | 홍길동 | 20   | 개발자 |
-| 허예진 | 29   | 백수   |
+| 이순신 | 29   | 백수   |
 
 | 좌측정렬 | 가운데정렬 | 우측정렬 |
 | :------- | :--------: | -------: |
