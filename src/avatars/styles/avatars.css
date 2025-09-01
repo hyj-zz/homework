@@ -14,8 +14,8 @@ body {
 }
 
 .profile {
-  width: 150px;
-  height: 150px;
+  width: 64px;
+  height: 64px;
   position: relative;
 }
 
@@ -30,17 +30,17 @@ body {
   position: absolute;
   bottom: 0;
   right: 0;
-  width: 35px;
-  height: 35px;
+  width: 18px;
+  height: 18px;
   border-radius: 50%;
   border: 3px solid white;
 }
 
 .status.online {
-  background: #4caf50;
+  background: #4CFE88;
 }
 
 
 .status.offline {
-  background: #ccc;
+  background: #DBDBDB;
 }
